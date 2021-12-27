@@ -13,6 +13,7 @@ A simple EMS (Employee Management System) written in PHP Codeigniter
 * PHP 7.4.26
 * CodeIgniter 3.1.11
 * XAMP 3.3.0
+* Bootstrap 3.4.1
 
 ### Screenshots
 #### User Login
