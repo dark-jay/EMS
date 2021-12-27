@@ -1,7 +1,7 @@
 # EMS
 A simple EMS (Employee Management System) written in PHP Codeigniter
 
-### All functionalities of CRUD operations have been inculded.
+### All functionalities of CRUD operations have been included.
 * User registration page
 * User login page
 * Add Employee page
